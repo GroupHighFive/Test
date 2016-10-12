@@ -8,10 +8,6 @@ Useful websites:
 - The Pew Research Center
 - https://www.kaggle.com
 
-# Meeting Minutes One:
-- Date: 26 Sept 2016
-- Time: 12:00pm
-
 ##Agenda:
 + Discuss available datasets 
 + Confirm the project timeline
