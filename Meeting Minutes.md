@@ -9,6 +9,7 @@ Useful websites:
 - https://www.kaggle.com
 - lsjf oiejoefjjfeefe
 fejoafjofa
+meimeimei
 
 ##Agenda:
 + Discuss available datasets 
